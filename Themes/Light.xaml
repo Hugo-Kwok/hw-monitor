@@ -1,0 +1,31 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- General UI -->
+    <SolidColorBrush x:Key="WindowBrush" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="PanelBrush" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="GraphAreaBrush" Color="#F3F3F3" />
+    <SolidColorBrush x:Key="TextBrush" Color="#1E1E1E" />
+    <SolidColorBrush x:Key="SubtleTextBrush" Color="#666666" />
+    <SolidColorBrush x:Key="HeaderTextBrush" Color="#1F4E79" />
+    <SolidColorBrush x:Key="LineBrush" Color="#D0D0D0" />
+    <SolidColorBrush x:Key="ControlBrush" Color="#FBFBFB" />
+    <SolidColorBrush x:Key="ControlHoverBrush" Color="#E8F0FE" />
+    <SolidColorBrush x:Key="ControlPressedBrush" Color="#D2E3FC" />
+    <SolidColorBrush x:Key="RowHoverBrush" Color="#EEF4FF" />
+    <SolidColorBrush x:Key="SelectionBrush" Color="#CCE0FF" />
+    <SolidColorBrush x:Key="AccentBrush" Color="#2979FF" />
+    <SolidColorBrush x:Key="ErrorBrush" Color="#B00020" />
+    <SolidColorBrush x:Key="ScrollThumbBrush" Color="#C2C2C2" />
+    <SolidColorBrush x:Key="ScrollTrackBrush" Color="#F0F0F0" />
+    <SolidColorBrush x:Key="DropZoneBrush" Color="#FAFAFA" />
+    <SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="#F0F0F0" />
+
+    <!-- Charts -->
+    <SolidColorBrush x:Key="ChartBackgroundBrush" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="ChartGridBrush" Color="#E8E8E8" />
+    <SolidColorBrush x:Key="ChartFrameBrush" Color="#B0B0B0" />
+    <SolidColorBrush x:Key="ChartLabelBrush" Color="#555555" />
+    <SolidColorBrush x:Key="ChartCursorBrush" Color="#90404040" />
+    <SolidColorBrush x:Key="ChartTipBrush" Color="#F0FFFFFF" />
+    <SolidColorBrush x:Key="ChartTipTextBrush" Color="#000000" />
+</ResourceDictionary>

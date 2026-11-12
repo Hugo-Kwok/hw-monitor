@@ -1,0 +1,31 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- General UI -->
+    <SolidColorBrush x:Key="WindowBrush" Color="#1E1E1E" />
+    <SolidColorBrush x:Key="PanelBrush" Color="#252526" />
+    <SolidColorBrush x:Key="GraphAreaBrush" Color="#181818" />
+    <SolidColorBrush x:Key="TextBrush" Color="#E6E6E6" />
+    <SolidColorBrush x:Key="SubtleTextBrush" Color="#9A9A9A" />
+    <SolidColorBrush x:Key="HeaderTextBrush" Color="#6CB6FF" />
+    <SolidColorBrush x:Key="LineBrush" Color="#3C3C3C" />
+    <SolidColorBrush x:Key="ControlBrush" Color="#2D2D30" />
+    <SolidColorBrush x:Key="ControlHoverBrush" Color="#3A3D41" />
+    <SolidColorBrush x:Key="ControlPressedBrush" Color="#46494E" />
+    <SolidColorBrush x:Key="RowHoverBrush" Color="#2A2D2E" />
+    <SolidColorBrush x:Key="SelectionBrush" Color="#264F78" />
+    <SolidColorBrush x:Key="AccentBrush" Color="#3B8EEA" />
+    <SolidColorBrush x:Key="ErrorBrush" Color="#FF6B6B" />
+    <SolidColorBrush x:Key="ScrollThumbBrush" Color="#5A5A5A" />
+    <SolidColorBrush x:Key="ScrollTrackBrush" Color="#202020" />
+    <SolidColorBrush x:Key="DropZoneBrush" Color="#202020" />
+    <SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="#202020" />
+
+    <!-- Charts -->
+    <SolidColorBrush x:Key="ChartBackgroundBrush" Color="#1E1E1E" />
+    <SolidColorBrush x:Key="ChartGridBrush" Color="#2F2F2F" />
+    <SolidColorBrush x:Key="ChartFrameBrush" Color="#4A4A4A" />
+    <SolidColorBrush x:Key="ChartLabelBrush" Color="#A0A0A0" />
+    <SolidColorBrush x:Key="ChartCursorBrush" Color="#99C8C8C8" />
+    <SolidColorBrush x:Key="ChartTipBrush" Color="#F02D2D30" />
+    <SolidColorBrush x:Key="ChartTipTextBrush" Color="#E6E6E6" />
+</ResourceDictionary>
